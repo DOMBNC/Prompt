@@ -1,4 +1,4 @@
-#Wite in Notion enviroment
+# Wite in Notion enviroment
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Write a detailed bug bounty report suitable for pasting into Notion.
 
