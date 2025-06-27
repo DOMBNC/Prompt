@@ -1,0 +1,7 @@
+Giúp tôi phân tích khả năng truy vấn SQL ở backend dựa trên URL sau:
+http://example.com/page.php?id=1
+
+- Hãy đưa ra 3 ví dụ câu lệnh SQL mà backend có thể viết để xử lý tham số "id".
+- Cho biết kiểu dữ liệu của tham số (INT hay STRING).
+- Gợi ý payload SQLi phù hợp cho từng kiểu.
+- Nếu được, gợi ý thêm payload error-based để khai thác dữ liệu.
