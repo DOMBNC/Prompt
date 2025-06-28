@@ -1,0 +1,43 @@
+I found a vulnerability during a security assessment. Please help me generate a detailed bug bounty report based on the following form structure.
+
+Form structure:
+
+Title
+<!-- - Briefly describe the vulnerability and where it occurs. - Overall impact in one line (≤ 30 words). -->
+
+Description and Impact
+<!-- - Briefly introduce the API/feature and identify the vulnerable component. - Where is the issue (API/endpoint/webpage)? - What is the vulnerability? Describe the attack scenario and its impact. - Keep it ≤ 5 lines, ≤ 200 words. -->
+
+Root Cause Analysis [if available]
+<!-- - Quote relevant source code (file, line number, function). - Explain the context and root cause. - Show how the payload interacts with code leading to the vulnerability. - Clear, logical, highlight important parts, add illustrations if any. -->
+
+Steps to Reproduce (PoC)
+<!-- - Clear, minimal steps to reproduce. - Stable, easy to follow. - Preferably include image/video references. -->
+
+Attachments
+<!-- - Exploit code, images, videos, logs, stacktrace, etc. -->
+
+Recommendations
+<!-- - Practical suggestions for fixing or mitigating the issue. -->
+
+References
+<!-- - Helpful links about this bug type and fixes. -->
+
+Details of the vulnerability I found:
+
+Vulnerability type: [describe]
+Affected component: [describe]
+Endpoint/API/URL: [describe]
+Attack scenario: [describe in brief]
+Affected version/platform: [describe]
+Affected user impact: [describe]
+
+Source code (if any): [paste or describe]
+
+PoC steps:
+
+    [step 1]
+
+    [step 2]
+
+    [step 3]
